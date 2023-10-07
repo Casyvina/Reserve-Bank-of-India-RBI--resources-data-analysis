@@ -1,4 +1,5 @@
 # Reserve-Bank-of-India-(RBI)-resources-data-analysis
+![logo](rbi.png)
 
 # AIM -
 The Aim of this project is to make valuable predictions on **year over year growth** which is very essential in investment banking considering India, as investors usually want to see your year-over-year numbers before supplying you with business capital as well as YOY is a great statistic to use when you want to control the effects of volatility when comparing companies or economies.
